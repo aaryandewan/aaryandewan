@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aaryan Dewan</h1>
+<h1 align="center">Hi 👋, I'm Aaryan</h1>
 <h3 align="center">A college sophomore and a passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryandewan&label=Profile%20views&color=0e75b6&style=flat" alt="aaryandewan" /> </p>
