@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryandewan&label=Profile%20views&color=0e75b6&style=flat" alt="aaryandewan" /> </p>
 
-- 🔭 I’m currently working on [GitHub User Search](https://github.com/aaryandewan/githubUserSearch)
+- 🔭 I’m currently working on [Firebase Image Auth](https://github.com/aaryandewan/firebase_image_hoster_w_auth)
 
 - 🌱 I’m currently learning **React and Firebase**
 
