@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryandewan&label=Profile%20views&color=0e75b6&style=flat" alt="aaryandewan" /> </p>
 
-- 🔭 I’m currently working on [Firebase Image Auth](https://github.com/aaryandewan/firebase_image_hoster_w_auth)
+- 🔭 I’m currently working on [Custom Argon Dashboard](https://github.com/aaryandewan/custom-argon-dashboard)
 
-- 🌱 I’m currently learning **React and Firebase**
+- 🌱 I’m currently learning **React, Node and MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aaryandewan/](https://github.com/aaryandewan/)
 
