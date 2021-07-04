@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aaryandewan/](https://github.com/aaryandewan/)
 
-- 💬 Ask me about **React**
-
 - ⚡ Fun fact **I love biking**
 
 <h3 align="left">Connect with me:</h3>
