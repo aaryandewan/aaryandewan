@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryandewan&label=Profile%20views&color=0e75b6&style=flat" alt="aaryandewan" /> </p>
 
-- 🔭 I’m currently working on [https://github.com/aaryandewan/find-hackers](xyz)
+- 🔭 I’m currently working on [zyzz](https://github.com/aaryandewan/find-hackers)
 
 - 🌱 I’m currently learning **React, Node and MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aaryandewan/](https://github.com/aaryandewana/)
+- 👨‍💻 All of my projects are available at [https://github.com/aaryandewan/](https://github.com/aaryandewan/)
 
 - ⚡ Fun fact **I love biking**
 
