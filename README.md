@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryandewan&label=Profile%20views&color=0e75b6&style=flat" alt="aaryandewan" /> </p>
 
-- 🔭 I’m currently working on [https://github.com/aaryandewan/find-hackers/](Find Hackers)
+- 🔭 I’m currently working on https://github.com/aaryandewan/find-hackers
 
 - 🌱 I’m currently learning **React, Node and MongoDB**
 
