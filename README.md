@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, Node and MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aaryandewan/](https://github.com/aaryandewan/)
+- 👨‍💻 All of my projects are available at [https://github.com/aaryandewan/](https://github.com/aaryandewana/)
 
 - ⚡ Fun fact **I love biking**
 
