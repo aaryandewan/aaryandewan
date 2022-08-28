@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Find Hackers](https://github.com/aaryandewan/find-hackers)
 
-- 🌱 I’m currently learning **React, Node and MongoDB**
+- 🌱 I’m currently learning **React and Firebase**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aaryandewan/](https://github.com/aaryandewan/)
 
