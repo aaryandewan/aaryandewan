@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aaryandewan/](https://github.com/aaryandewan/)
 
-- ⚡ Fun fact **I love biking**
+- ⚡ Fun fact **I love biking** and violating some weights! 🏋️‍♂️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
